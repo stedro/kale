@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(230, 54, 230);
+}
+.titulo{
+    background-color: pink;
+    padding: .5px;
+    color: rgb(250, 114, 114);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.texto{
+    color: rgba(255, 255, 255, 0.904);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 500;
+    text-align: center;
+}
+.imagen{
+    text-align: center;
+}
+.img_imagen{
+    width: 200px;
+}
+.enlace{
+    padding-left: 200px;
+    color: rgba(0, 0, 0, 0.671);
+}
